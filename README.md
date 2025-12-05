@@ -1,6 +1,35 @@
 ## Hey,I'm Mubariz 👋
 
 
+## 💻 About Me:
+
+🔭 I’m currently working on
+• Malware analysis (static & dynamic)
+• Basic penetration testing and payload creation
+• Network traffic analysis
+
+👯 I’m looking to collaborate on
+• CTF challenges
+• Small cybersecurity tools
+• Blue Team projects
+
+🤝 I’m looking for help with
+• Advanced malware techniques
+• Exploit development basics
+• Security architecture (SIEM, SOC)
+
+🌱 I’m currently learning
+• Security+ (SY0-701)
+• PKI & Certificate Authorities
+• Linux privilege escalation
+• Network protocols
+
+💬 Ask me about
+• Malware behavior on networks
+• Reverse TCP shells
+• Kali Linux + VMware usage
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m%C3%BCbariz-pa%C5%9Fayev/) 
 
