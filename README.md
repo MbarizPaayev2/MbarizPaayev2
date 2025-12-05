@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey,I'm Mubariz 👋
 
 
 ## 🌐 Socials:
