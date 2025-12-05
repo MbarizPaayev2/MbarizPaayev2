@@ -1,7 +1,7 @@
 ## Hey,I'm Mubariz 👋
 
 
-## 💻💫 About Me
+## 💻 About Me
 
 ### 🔭 I’m currently working on
 - Malware analysis (static & dynamic)
